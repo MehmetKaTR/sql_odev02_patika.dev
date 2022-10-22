@@ -1,0 +1,1 @@
+# sql_odev02_patika.dev
